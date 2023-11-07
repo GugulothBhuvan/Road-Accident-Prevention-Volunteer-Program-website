@@ -1,1 +1,2 @@
-# Road-Accident-Prevention-Volunteer-Program-website
+# ngo_website
+Repository for the NGO website.
